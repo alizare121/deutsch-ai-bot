@@ -1,2 +1,5 @@
 python-telegram-bot
-openai
+requests
+google-generativeai
+gtts
+SpeechRecognition
